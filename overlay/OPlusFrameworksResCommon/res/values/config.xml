@@ -161,8 +161,6 @@
     <string name="config_oemFastChargerStatusPath" translatable="false">/sys/class/oplus_chg/battery/voocchg_ing</string>
 
 
-    </string-array>
-
 
 
 </resources>
